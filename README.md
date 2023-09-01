@@ -60,10 +60,12 @@ Angepasst wird die IP-Adresse der Wärmepumpe und der Speicherort der Protokolld
 Die exe Datei muss noch im Autostart eingetragen werden. (Windows 11: Taskmanager,
 Autostart von Apps, neuen Task ausführen)
 
-Wenn man die Vorlauftemperatur auch protokollieren möchte, dann ergänze man in der Verzweigung: if (neuerTag()) 
+Wenn man die Vorlauftemperatur auch protokollieren möchte, dann ergänze man im Programm:
+* die Variable private static string temperaturVorlauf;
+* in der Verzweigung: if (neuerTag())
 um die Zeile **temperaturVorlauf = leseWert(511, 10.0);** 
 vor der Zeile speichereDaten();
-und ergänze in der Zeile logFile.WriteLine(... +"\t" **+ temperaturVorlauf**);
+* ergänze in der Zeile logFile.WriteLine(... +"\t" **+ temperaturVorlauf**);
 # KNX
 Wenn die Heizkreise über KNX gesteuert werden, kann die Abfrage der Raumtemperatur
 gezielt im kältesten Raum bei geöffneten Ventilen erfolgen. Für Interessierte hier ein
