@@ -49,6 +49,7 @@ Vereinfachung der Anpassung.
 Die Wärmepumpe steht im lokalen Netz. Werte können mit dem Modbus/TCP Protokoll
 von der Wärmepumpe abgefragt werden. Das Programm ist in C# geschrieben und hat
 keine Benutzeroberfläche.
+
 Es gibt zwei Möglichkeiten dieses Programm zu installieren:
 * In Visual Studio das Programm (mit pull) downloaden, anpassen und übersetzten lassen.
 * Das File Vorlauftemperatur.7z downloaden, entpacken und anpassen.
