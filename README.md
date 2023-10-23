@@ -52,7 +52,7 @@ keine Benutzeroberfläche.
 
 Es gibt zwei Möglichkeiten dieses Programm zu installieren:
 * In Visual Studio das Programm (mit pull) downloaden, anpassen und übersetzten lassen.
-* Das File Vorlauftemperatur.7z downloaden, entpacken und anpassen.
+* Das File Vorlauftemperatur.7z downloaden, entpacken, installieren und anpassen.
 
 Anzupassen ist die Datei Protokoll_Aussentemp_Innentemp_taeglich.exe.config. Da
 diese Datei im XML Format gespeichert ist, kann man sie mit jedem Editor bearbeiten.
