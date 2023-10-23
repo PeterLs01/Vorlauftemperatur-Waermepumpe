@@ -1,6 +1,6 @@
 # Programm zur Unterstützung derEinstellung der Heizkurve einer Wärmepumpe
 ## geeignet für Stiebel Eltron WPE-I 12 HK 230 Premium
-### Peter Lenser
+### PeterLs
 ### Version 1.0
 # Motivation
 Die Heizkurve einer Wärmepumpe regelt die Vorlauftemperatur der Heizkörper in Abhängigkeit von der Außentemperatur. Wenn die Heizkurve optimal eingestellt ist, haben alle Räume unabhängig von der Außentemperatur immer die gewünschte Temperatur. Je niedriger die Vorlauftemperatur ist, desto effizienter arbeitet die Wärmepumpe. Ziel ist also, ohne die Raumtemperatur durch einen lokalen Regler am Heizkörper zu erniedrigen, die Vorlauftemperatur minimal einzustellen.
