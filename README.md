@@ -22,12 +22,12 @@ einem Raspi stündlich erzeugen lassen.
 # Auswertung mit einem Tabellenkalkulationsprogramm
 Diese Tabelle öffnet man in einem Tabellenkalkulationsprogramm, erzeugt eine Grafik
 aus den Daten und ergänzt das Diagramm um eine Trendlinie.
-![Bild1](https://github.com/Petrosilius-Zwackelmann/Vorlauftemperatur-Waermepumpe/assets/71694571/74a84821-db8e-4023-a317-d1950d3f954a)
+![Bild1](https://github.com/PeterLs01/Vorlauftemperatur-Waermepumpe/assets/71694571/74a84821-db8e-4023-a317-d1950d3f954a)
 
 Die Trendlinie ist aktuell nicht parallel zur Außentemperaturachse. Bei 0°C Außentemperatur sollte die Vorlauftemperatur etwas höher sein, bei ca 10°C ist sie sinnvoll
 eingestellt.
 
-![Bild6](https://github.com/Petrosilius-Zwackelmann/Vorlauftemperatur-Waermepumpe/assets/71694571/486bd18a-93ee-40c5-9ff1-129e88300594)
+![Bild6](https://github.com/PeterLs01/Vorlauftemperatur-Waermepumpe/assets/71694571/486bd18a-93ee-40c5-9ff1-129e88300594)
 
 Man sieht es gibt zusätzliche Einflüsse wie z.B. Sonne, Starkwind, Lüftungsverhalten
 u.a., die auch einen Einfluss auf die Raumtemperatur haben. Aber diese Kurve ist bei
