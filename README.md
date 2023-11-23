@@ -1,4 +1,4 @@
-# Programm zur Unterstützung derEinstellung der Heizkurve einer Wärmepumpe
+# Programm zur Unterstützung der Einstellung der Heizkurve einer Wärmepumpe
 ## geeignet für Stiebel Eltron WPE-I 12 HK 230 Premium
 ### PeterLs
 ### Version 1.0
